@@ -55,46 +55,46 @@ Whether you are performing security code audits, automated CI/CD pipeline scans,
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)**  
-  [![GitHub stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=social&color=white)](https://github.com/mitmproxy/mitmproxy/stargazers)  
   🛠️ Interactive HTTPS proxy for intercepting, modifying, and replaying API requests. Essential for manual API security auditing, inspecting auth flows, and traffic analysis.
 
 - **[projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)**  
-  [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
   ⚡ Fast and customizable vulnerability scanner powered by simple YAML templates. Includes extensive community templates targeting API vulnerabilities (BOLA/IDOR, JWT flaws, SSRF, GraphQL exposure).
 
 - **[zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)** *(OWASP ZAP)*  
-  [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers)  
   🛡️ World’s most widely used open-source DAST scanner. Fully supports OpenAPI/Swagger import, GraphQL introspection scanning, automated auth scripts, and headless CI integration.
 
 - **[grafana/k6](https://github.com/grafana/k6)**  
-  [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)  
   🔥 Modern developer-centric load testing tool written in Go and JavaScript. Widely extended for API rate-limiting validation, fault injection, and security performance testing.
 
 - **[postmanlabs/newman](https://github.com/postmanlabs/newman)**  
-  [![GitHub stars](https://img.shields.io/github/stars/postmanlabs/newman?style=social&color=white)](https://github.com/postmanlabs/newman/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/postmanlabs/newman?style=social&color=white)](https://github.com/postmanlabs/newman/stargazers)  
   🚀 Command-line collection runner for Postman. Allows developers to execute automated API security test suites and assertions directly inside CI/CD pipelines.
 
 - **[schemathesis/schemathesis](https://github.com/schemathesis/schemathesis)**  
-  [![GitHub stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/schemathesis/schemathesis?style=social&color=white)](https://github.com/schemathesis/schemathesis/stargazers)  
   🧪 Powerful property-based testing tool for OpenAPI and GraphQL APIs. Generates negative test cases from specs, catching schema violations, unhandled server crashes, and edge-case bugs.
 
 - **[microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer)**  
-  [![GitHub stars](https://img.shields.io/github/stars/microsoft/restler-fuzzer?style=social&color=white)](https://github.com/microsoft/restler-fuzzer/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/restler-fuzzer?style=social&color=white)](https://github.com/microsoft/restler-fuzzer/stargazers)  
   🔬 Stateful REST API fuzzing engine developed by Microsoft Research. Automatically analyzes OpenAPI specs to infer producer-consumer payload dependencies and discover multi-step logic vulnerabilities.
 
 - **[doyensec/inql](https://github.com/doyensec/inql)**  
-  [![GitHub stars](https://img.shields.io/github/stars/doyensec/inql?style=social&color=white)](https://github.com/doyensec/inql/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/doyensec/inql?style=social&color=white)](https://github.com/doyensec/inql/stargazers)  
   🔮 Advanced GraphQL security testing tool and Burp Suite extension for introspecting schema, auto-generating documentation, and discovering GraphQL queries/mutations vulnerabilities.
 
 - **[wallarm/api-firewall](https://github.com/wallarm/api-firewall)**  
-  [![GitHub stars](https://img.shields.io/github/stars/wallarm/api-firewall?style=social&color=white)](https://github.com/wallarm/api-firewall/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/wallarm/api-firewall?style=social&color=white)](https://github.com/wallarm/api-firewall/stargazers)  
   🧱 High-performance proxy enforcing a positive security model by checking requests and responses against OpenAPI specs in real time.
 
 - **[OWASP/www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework)**  
-  [![GitHub stars](https://img.shields.io/github/stars/OWASP/www-project-api-security-testing-framework?style=social&color=white)](https://github.com/OWASP/www-project-api-security-testing-framework/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/OWASP/www-project-api-security-testing-framework?style=social&color=white)](https://github.com/OWASP/www-project-api-security-testing-framework/stargazers)  
   📖 Dedicated OWASP project creating structured guidelines, test suites, and automation rules mapped to the OWASP API Security Top 10 vulnerabilities.
 
 ---
@@ -114,7 +114,7 @@ Contributions are highly welcomed! Help us keep this directory up-to-date and co
 
 1. Fork this repository.
 2. Add your tool under the appropriate table or list with accurate, objective descriptions.
-3. Verify all URLs and star badges format correctly.
+3. Verify all URLs and Stars_Badges format correctly.
 4. Submit a Pull Request with a short summary of the addition.
 
 ---
